@@ -1,0 +1,51 @@
+.list-style {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.each-history-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.time-logo-title-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-style {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  margin-left: 30px;
+}
+
+.time-text-style {
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #475569;
+  padding-right: 10px;
+}
+
+.url-style {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: #64748b;
+}
+
+.deleteIcon {
+  width: 18px;
+  height: 18px;
+  margin-right: 30px;
+  cursor: pointer;
+}
+
+.button-style {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
